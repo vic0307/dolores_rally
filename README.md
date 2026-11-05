@@ -8,12 +8,12 @@ Aquí puedes ver las vistas principales del sistema y su flujo en realidad aumen
 
 | Vista de Juego (AR) | Pantalla de Login |
 | :---: | :---: |
-| ![Juego Dolores](assets/screenshots/juegodolores.png) | ![Login](assets/screenshots/Login.png) |
+| ![Juego Dolores](capturas/juegodolores.png) | ![Login](capturas/Login.png) |
 | *Captura de la experiencia en Realidad Aumentada* | *Pantalla de acceso al sistema* |
 
 | Mi Álbum | Salón de Clases (AR) |
 | :---: | :---: |
-| ![Mi Álbum](assets/screenshots/mialbun.png) | ![Salón de Clases](assets/screenshots/salondeclase.png) |
+| ![Mi Álbum](capturas/mialbun.png) | ![Salón de Clases](capturas/salondeclase.png) |
 | *Colección de personajes descubiertos* | *Interfaz de interacción en el aula* |
 
 ---
