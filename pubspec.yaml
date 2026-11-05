@@ -1,0 +1,27 @@
+name: dolores_rally
+ddescription: "Rally de realidad aumentada por Dolores Hidalgo: atrapa personajes de la Independencia."
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+# Si "flutter pub get" se queja de una versión, borra la línea y ejecuta:
+#   flutter pub add camera geolocator flutter_compass shared_preferences
+# 📸📸📸 ▼▼▼ CAPTURA C1 · INICIO · Paquetes del proyecto ▼▼▼
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.11.0
+  geolocator: ^13.0.1
+  flutter_compass: ^0.8.1
+  shared_preferences: ^2.3.0
+# 📸📸📸 ▲▲▲ CAPTURA C1 · FIN ▲▲▲
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
